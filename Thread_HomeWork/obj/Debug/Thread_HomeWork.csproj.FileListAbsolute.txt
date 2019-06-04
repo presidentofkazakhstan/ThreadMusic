@@ -1,0 +1,16 @@
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\bin\Debug\Thread_HomeWork.exe.config
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\bin\Debug\Thread_HomeWork.exe
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\bin\Debug\Thread_HomeWork.pdb
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.csprojAssemblyReference.cache
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\MainWindow.g.cs
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\App.g.cs
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork_Content.g.cs
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork_MarkupCompile.cache
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork_MarkupCompile.lref
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\MainWindow.baml
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.g.resources
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.Properties.Resources.resources
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.csproj.GenerateResource.cache
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.csproj.CoreCompileInputs.cache
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.exe
+c:\users\тынышбаева.corp\source\repos\Thread_HomeWork\Thread_HomeWork\obj\Debug\Thread_HomeWork.pdb
